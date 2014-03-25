@@ -1,0 +1,8 @@
+# Answers to the problems at ProjectEuler.net.
+# Format of this file is: Problem Number: Answer.
+# This file is meant to be read by the testing file in the same directory.
+# Don't add answers for solutions which don't exist, otherwise the testing script
+# will try to load the corresponding solution file and then fail.
+
+1: 233168
+2: 4613732
